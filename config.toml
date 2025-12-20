@@ -54,8 +54,8 @@ title = 'Wye Make'
   [params.address]
   address = "Overmonnow Family Learning Centre<br>Monmouth, NP25 5AR"
   email = "hello@wyemake.co.uk"
-  openingDesc = "Open on the first and third Tuesdays of each month"
-  openingHours = "Between 7:30pm and 9:30pm"
+  openingDesc = "Open on the first and third Tuesdays of each month between 7:30pm and 9:30pm"
+  openingHours = "and the first Saturday of each month between 10am and 4pm"
   phone = ""
   w3w = "https://what3words.com/craft.shampoo.unicorns"
 
